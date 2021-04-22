@@ -10,7 +10,7 @@ main -> main()
 main -> main() -> mainSubPackage2 -> Show()
 ```
 
-![картинка](https://github.com/alekseysychev/test_initOrder/blob/main/image.jpg?raw=true)
+![картинка](https://github.com/alekseysychev/test_initOrder/blob/master/image.jpg?raw=true)
 
 [developpaper.com](https://developpaper.com/detailed-explanation-of-init-function-in-go-language/)
 
